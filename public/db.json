@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Samsung",
+    "category": "TV",
+    "productItem": ["QLED 8K TVs ", "QLED 4K TVs ", "The Frame "]
+  },
+  {
+    "title": "Samsung",
+    "category": "Mobile",
+    "productItem": ["Samsung S7 ", "Samsung S8 ", "Samsung S9 "]
+  }
+]
